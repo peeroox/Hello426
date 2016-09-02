@@ -1,0 +1,11 @@
+File Lokal herstellen und in Cloud raufladen
+
+git init
+git add FILE.txt
+git commit -m "first commit"
+git remote add origin
+git push -u origin master
+
+git clone https://github.com/luke7991/Hello426
+
+tutorial: github.com/redduc/Hello426
